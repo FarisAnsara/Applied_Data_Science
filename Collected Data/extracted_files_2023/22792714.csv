@@ -1,0 +1,190 @@
+﻿Date ,Time,Direction,Type,Occupancy,Driver Gender,Fuel Type
+"Tuesday, 24 October 2023",10:15:00 AM,IN,car,3,male,ICE
+"Tuesday, 24 October 2023",10:15:00 AM,IN,truck,2,male,ICE
+"Tuesday, 24 October 2023",10:15:00 AM,IN,bus,80%,male,ICE
+"Tuesday, 24 October 2023",10:15:00 AM,IN,bus ,100%,male,ICE
+"Tuesday, 24 October 2023",10:15:00 AM,IN,truck,2,male,ICE
+"Tuesday, 24 October 2023",10:15:00 AM,IN,bicycle,1,male,ZEV
+"Tuesday, 24 October 2023",10:15:00 AM,IN,car,3,female,ICE
+"Tuesday, 24 October 2023",10:15:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:15:00 AM,IN,car,4,male,ICE
+"Tuesday, 24 October 2023",10:15:00 AM,IN,car,3,male,ICE
+"Tuesday, 24 October 2023",10:15:00 AM,IN,motorbike,1,male,ICE
+"Tuesday, 24 October 2023",10:15:00 AM,IN,motorbike,1,male,ICE
+"Tuesday, 24 October 2023",10:15:00 AM,IN,car,2,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,3,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,4,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,3,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,bus ,100%,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,3,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,2,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,2,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,2,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,3,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,bus,80%,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,3,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,bus ,50%,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,2,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,2,female,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,bus ,10%,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,car,2,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,motorbike,1,male,ICE
+"Tuesday, 24 October 2023",10:20:00 AM,IN,bus,10%,male,ICE
+"Tuesday, 24 October 2023",10:25:00 AM,IN,car,2,male,ICE
+"Tuesday, 24 October 2023",10:25:00 AM,IN,car,2,male,ZEV
+"Tuesday, 24 October 2023",10:25:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:25:00 AM,IN,car,3,male,ICE
+"Tuesday, 24 October 2023",10:25:00 AM,IN,bicycle,1,male,ZEV
+"Tuesday, 24 October 2023",10:25:00 AM,IN,car,2,female,ICE
+"Tuesday, 24 October 2023",10:25:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:25:00 AM,IN,van,1,male,ICE
+"Tuesday, 24 October 2023",10:25:00 AM,IN,car,2,male,ICE
+"Tuesday, 24 October 2023",10:25:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:25:00 AM,IN,motorbike,1,female,ICE
+"Tuesday, 24 October 2023",10:25:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:25:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:25:00 AM,IN,bicycle,1,female,ZEV
+"Tuesday, 24 October 2023",10:25:00 AM,IN,bicycle,2,male,ZEV
+"Tuesday, 24 October 2023",10:25:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:25:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:25:00 AM,IN,car,4,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ZEV
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ZEV
+"Tuesday, 24 October 2023",10:30:00 AM,IN,bicycle,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,truck,2,male,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,3,male,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ZEV
+"Tuesday, 24 October 2023",10:30:00 AM,IN,van,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,truck,2,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,2,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,2,male,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,3,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,4,male,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,2,male,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,bus,20%,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,2,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,van,1,male,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,2,male,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,3,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,2,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,2,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:30:00 AM,IN,car,4,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,female,ZEV
+"Tuesday, 24 October 2023",10:35:00 AM,IN,bus ,20%,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,3,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,van,70,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,van,1,female,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,2,female,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,3,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,3,male,ICE
+"Tuesday, 24 October 2023",10:35:00 AM,IN,car,2,female,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,bus ,80%,male,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,2,male,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,3,female,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,3,female,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,3,female,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,2,female,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,2,female,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,3,male,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,motorbike,1,male,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,2,male,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,3,male,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,truck,1,male,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:40:00 AM,IN,car,2,male,ICE
+"Tuesday, 24 October 2023",10:45:00 AM,IN,van,1,male,ICE
+"Tuesday, 24 October 2023",10:45:00 AM,IN,van,1,male,ICE
+"Tuesday, 24 October 2023",10:45:00 AM,IN,car,1,male,ZEV
+"Tuesday, 24 October 2023",10:45:00 AM,IN,van,2,male,ICE
+"Tuesday, 24 October 2023",10:45:00 AM,IN,car,1,female,ICE
+"Tuesday, 24 October 2023",10:45:00 AM,IN,bus ,70%,male,ICE
+"Tuesday, 24 October 2023",10:45:00 AM,IN,car,1,male,ICE
+"Tuesday, 24 October 2023",10:45:00 AM,IN,bus ,60%,male,ICE
+"Tuesday, 24 October 2023",10:45:00 AM,IN,car,2,male,ICE
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
