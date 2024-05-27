@@ -50,14 +50,6 @@ Data Analysis on vehicles coming in and out of Universitying data to prepare it 
     ```
 2. **Navigate to the `notebooks` directory and open the desired notebook.**
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 For any inquiries, please contact [Faris Ansara](https://github.com/FarisAnsara).
