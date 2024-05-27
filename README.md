@@ -10,9 +10,9 @@ Data Analysis on vehicles coming in and out of Universitying data to prepare it 
 
 ### Semester 2
 
-●	Analysed Tesco's 2015 dataset (420M items, 1.6M users) to study nutrient intake and health outcomes.
-●	Examined obesity rates (2012), Type-2 Diabetes estimates (2016), and income data (2002-2022).
-●	Developed a predictive model for nutrient trends based on income.
+-	Analysed Tesco's 2015 dataset (420M items, 1.6M users) to study nutrient intake and health outcomes.
+-	Examined obesity rates (2012), Type-2 Diabetes estimates (2016), and income data (2002-2022).
+-	Developed a predictive model for nutrient trends based on income.
 
 ## Installation
 
